@@ -22,6 +22,14 @@
   <th>FrontEnd</th>
   <th>DevOps</th>
 </tr>
+	
+<!-- <tr><td valign="center" width="33%">
+	<div align="center"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,java,c,php,mysql,nodejs&perline=4&theme=light"/></div>
+</td><td valign="center" width="33%">
+	<div align="center"><img src="https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,wordpress,ps,ai&perline=4&theme=light"/></div>
+</td><td valign="center" width="33%">
+	<div align="center"><img src="https://skillicons.dev/icons?i=gcp,linux,git,docker&perline=4"/></div>
+</td></tr> -->
 
 <tr><td valign="center" width="33%">
 
