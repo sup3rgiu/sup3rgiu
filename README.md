@@ -79,13 +79,31 @@
 
 ## Github Stats  
 <div align="center"> 
-   <a href="">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sup3rgiu&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-  </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=react&line_height=40&hide=css"/>
-  </a>
+	<picture>
+		<source 
+		  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sup3rgiu&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"
+		  media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sup3rgiu&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99"
+		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sup3rgiu&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99" />
+	</picture>
+	<picture>
+		<source 
+		  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=react&line_height=40&hide=css,roff"
+		  media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99&hide=css,roff"
+		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99&hide=css,roff" />
+	</picture>
 </div
+
+
 
 <br/>  
 <br/>  
