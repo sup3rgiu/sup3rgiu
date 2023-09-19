@@ -4,9 +4,9 @@
   <img alt="Greetings" src="./assets/hello-l.gif" align="center" style="width: 100%">
 </picture>
 
-### <div align="center">I'm Andrea, a final year Computer Science and Engineering MSc student at [Politecnico di Milano](https://www.polimi.it/)</div>  
+### <div align="center">I'm Andrea, a MSc Graduate in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/)</div>  
 
-- ⚙️ I’m currently working on my Master Thesis about Generative Neural Networks  
+- ⚙️ I’m currently conducting research on Generative Neural Networks
   
 
 - 💡 I’m currently learning Tensorflow, PyTorch and fun stuff about Neural Networks  
