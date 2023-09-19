@@ -100,14 +100,14 @@
 	</picture>
 	<picture>
 		<source 
-		  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=react&line_height=40&hide=css,roff"
+		  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=react&line_height=40&hide=roff,css"
 		  media="(prefers-color-scheme: dark)"
 		/>
 		<source
-		  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99&hide=css,roff"
+		  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99&hide=roff,css"
 		  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99&hide=css,roff" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rgiu&theme=transparent&line_height=40&title_color=0e7b99&icon_color=0e7b99&hide=roff,css" />
 	</picture>
 </div
 
