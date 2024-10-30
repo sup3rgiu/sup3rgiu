@@ -4,12 +4,12 @@
   <img alt="Greetings" src="./assets/hello-l.gif" align="center" style="width: 100%">
 </picture>
 
-### <div align="center">I'm Andrea, a MSc Graduate in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/)</div>  
+### <div align="center">I'm Andrea, a PhD student in Data Analytics and Decision Sciences (DADS) at [Politecnico di Milano](https://www.polimi.it/)</div>  
 
-- ⚙️ I’m currently conducting research on Generative Neural Networks
+- ⚙️ I’m currently conducting research on Generative Neural Networks in the field of biomedicine
   
 
-- 💡 I’m currently learning Tensorflow, PyTorch and fun stuff about Neural Networks  
+- 💡 I’m currently working with PyTorch and Tensorflow
   
 
 - 💬 Ask me about anything I contributed, or anything random you think would be relevant!  
@@ -35,10 +35,11 @@
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
